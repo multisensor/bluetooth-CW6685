@@ -1,0 +1,2 @@
+# bluetooth-CW6685
+CW6685+CC2500+QN8027
